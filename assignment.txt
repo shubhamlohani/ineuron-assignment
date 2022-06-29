@@ -1,0 +1,2 @@
+The relation between right skewed histogram mean, median, and mode is Mean > Median > Mode.	
+The relation between mean, median, and mode in a left-skewed histogram is Mean < Median < Mode.
